@@ -1,7 +1,6 @@
-# Manim-examples
-# Some hands on examples of Machine Learning/Math concepts that I tried to animate using Manim library in Python.
+## Some hands on examples of Machine Learning/Math concepts animation using Manim library in Python.
 
-I have tried hands on, on the manim (Mathematical Animation Engine in Python) used by 3blue1brown in his videos for creating 2D/3D graphics and explaining mathematics concepts. 
+I have tried coding some examples on the manim (Mathematical Animation Engine in Python) used by [3blue1brown](https://www.youtube.com/c/3blue1brown/) in his videos for creating 2D/3D graphics and explaining mathematics concepts. 
 I followed [Todd Zimmerman's](https://talkingphysics.wordpress.com/2019/01/08/getting-started-animating-with-manim-and-python-3-7/) tutorials from his "Getting started in manim" blog on wordpress. 
 #### \#First Task
 - First basic task I completed in manim is - plotting sine and cosine functions using the Graph object of manim. 
